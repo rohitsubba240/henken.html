@@ -1,0 +1,60 @@
+
+.box#heading-box {
+    background-color: #4D869C;
+    display: block;
+}
+.box#table-box {
+    background-color: #4D869C;
+    display: inline-block;
+    color: whitesmoke;
+}
+.box > div {
+    background-color: #095151;
+}
+.box > p {
+    background-color: #CDE8E5;
+}
+#Table {
+    text-align: center;
+    width: 400px;
+    line-height: 30px;
+    font-size: larger;
+    position: relative;
+    color: whitesmoke;
+    background-color:#023448;
+}
+#list , .list{
+    display: block;
+    background-color: #023448;
+    color: whitesmoke;
+    margin: 0%;
+}
+ol , ul{
+    background-color: #4D869C;
+    margin: 0%;
+}
+#space {
+    margin:5%;
+}
+#page2 > h1 {
+    background-color: #023448;
+    color: whitesmoke;
+}
+#page2 > p {
+    background-color: #4D869C;
+}
+.list2 {
+    background-color: #948979;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.pizza {
+    height: 100px;
+    width: 300px;
+    text-align: center;
+}
+#sample {
+    display: inline;
+}
